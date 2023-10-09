@@ -719,7 +719,7 @@ section {
 
 .main_banner:after {
     content: '';
-    background: url(/assets/images/bg_main_banner.jpg) no-repeat top right;
+    background: url(../images/bg_main_banner.jpg) no-repeat top right;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -1079,7 +1079,7 @@ section {
 
 .personal_staking:after {
     content: '';
-    background: url(/assets/images/bg_reward.jpg) no-repeat top right;
+    background: url(../images/bg_reward.jpg) no-repeat top right;
     background-size: cover;
     position: absolute;
     top: 0;
